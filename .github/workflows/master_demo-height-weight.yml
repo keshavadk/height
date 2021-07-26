@@ -59,4 +59,4 @@ jobs:
         with:
           app-name: 'demo-height-weight'
           slot-name: 'production'
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_f7b1af51644a4417af28005c889d681d }}
+          publish-profile: ${{ secrets.AzureAppService_PublishProfile_455fa970aa514b0a9bc50f11aeb3129a }}
